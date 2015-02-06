@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 5883ae4b26de45249b4a6c4d9cf74fe3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BodyBone
+    100002: Bone
+    100004: Camera
+    100006: HipBoneBck_L
+    100008: HipBoneBck_R
+    100010: HipBoneFrnt_L
+    100012: HipBoneFrnt_R
+    100014: Lamp
+    100016: LegBckTarget_L
+    100018: LegBckTarget_R
+    100020: LegBottomBckPoleVectr_L
+    100022: LegBottomBckPoleVectr_R
+    100024: LegBottomFrntPoleVectr_L
+    100026: LegBottomFrntPoleVectr_R
+    100028: legCalfBckBone_L
+    100030: legCalfBckBone_R
+    100032: LegCalfFrntBone_L
+    100034: LegCalfFrntBone_R
+    100036: LegFrntTarget_L
+    100038: LegFrntTarget_R
+    100040: legMidBckBone_L
+    100042: legMidBckBone_R
+    100044: LegMidFrntBone_L
+    100046: LegMidFrntBone_R
+    100048: legUpperBckBone_L
+    100050: legUpperBckBone_R
+    100052: LegUpperFrntBone_L
+    100054: LegUpperFrntBone_R
+    100056: //RootNode
+    100058: TallBot_TallBot_phong1SG
+    100060: TallBot_TallBot_phong1SG_001
+    100062: TallBot_TallBot_phong1SG_002
+    100064: TallBot_TallBot_phong1SG_003
+    100066: TallBot_TallBot_phong1SG_004
+    100068: TallBot_TallBot_phong1SG_005
+    100070: TallBot_TallBot_phong1SG_006
+    100072: TallBot_TallBot_phong1SG_007
+    100074: TallBot_TallBot_phong1SG_008
+    100076: TallBot_TallBot_phong1SG_009
+    100078: TallBot_TallBot_phong1SG_010
+    100080: TallBot_TallBot_phong1SG_011
+    100082: TallBot_TallBot_phong1SG_012
+    100084: TallBot_TallBot_phong1SG_013
+    100086: TallBot_TallBot_phong1SG_014
+    100088: TallBot_TallBot_phong1SG_015
+    100090: TallBot_TallBot_phong1SG_016
+    100092: TallBot_TallBot_phong1SG_017
+    100094: TallBot_TallBot_phong1SG_018
+    100096: TallBot_TallBot_phong1SG_019
+    100098: TallBot_TallBot_phong1SG_020
+    100100: TallBot_TallBot_phong1SG_021
+    100102: TallBot_TallBot_phong1SG_022
+    100104: TallBot_TallBot_phong1SG_023
+    100106: TallBot_TallBot_phong1SG_024
+    100108: TallBot_TallBot_phong1SG_025
+    100110: tallBotBones
+    400000: BodyBone
+    400002: Bone
+    400004: Camera
+    400006: HipBoneBck_L
+    400008: HipBoneBck_R
+    400010: HipBoneFrnt_L
+    400012: HipBoneFrnt_R
+    400014: Lamp
+    400016: LegBckTarget_L
+    400018: LegBckTarget_R
+    400020: LegBottomBckPoleVectr_L
+    400022: LegBottomBckPoleVectr_R
+    400024: LegBottomFrntPoleVectr_L
+    400026: LegBottomFrntPoleVectr_R
+    400028: legCalfBckBone_L
+    400030: legCalfBckBone_R
+    400032: LegCalfFrntBone_L
+    400034: LegCalfFrntBone_R
+    400036: LegFrntTarget_L
+    400038: LegFrntTarget_R
+    400040: legMidBckBone_L
+    400042: legMidBckBone_R
+    400044: LegMidFrntBone_L
+    400046: LegMidFrntBone_R
+    400048: legUpperBckBone_L
+    400050: legUpperBckBone_R
+    400052: LegUpperFrntBone_L
+    400054: LegUpperFrntBone_R
+    400056: //RootNode
+    400058: TallBot_TallBot_phong1SG
+    400060: TallBot_TallBot_phong1SG_001
+    400062: TallBot_TallBot_phong1SG_002
+    400064: TallBot_TallBot_phong1SG_003
+    400066: TallBot_TallBot_phong1SG_004
+    400068: TallBot_TallBot_phong1SG_005
+    400070: TallBot_TallBot_phong1SG_006
+    400072: TallBot_TallBot_phong1SG_007
+    400074: TallBot_TallBot_phong1SG_008
+    400076: TallBot_TallBot_phong1SG_009
+    400078: TallBot_TallBot_phong1SG_010
+    400080: TallBot_TallBot_phong1SG_011
+    400082: TallBot_TallBot_phong1SG_012
+    400084: TallBot_TallBot_phong1SG_013
+    400086: TallBot_TallBot_phong1SG_014
+    400088: TallBot_TallBot_phong1SG_015
+    400090: TallBot_TallBot_phong1SG_016
+    400092: TallBot_TallBot_phong1SG_017
+    400094: TallBot_TallBot_phong1SG_018
+    400096: TallBot_TallBot_phong1SG_019
+    400098: TallBot_TallBot_phong1SG_020
+    400100: TallBot_TallBot_phong1SG_021
+    400102: TallBot_TallBot_phong1SG_022
+    400104: TallBot_TallBot_phong1SG_023
+    400106: TallBot_TallBot_phong1SG_024
+    400108: TallBot_TallBot_phong1SG_025
+    400110: tallBotBones
+    2300000: TallBot_TallBot_phong1SG_001
+    3300000: TallBot_TallBot_phong1SG_001
+    4300000: TallBot_TallBot_phong1SG
+    4300004: TallBot_TallBot_phong1SG_002
+    4300006: TallBot_TallBot_phong1SG_003
+    4300008: TallBot_TallBot_phong1SG_004
+    4300010: TallBot_TallBot_phong1SG_005
+    4300012: TallBot_TallBot_phong1SG_006
+    4300014: TallBot_TallBot_phong1SG_007
+    4300016: TallBot_TallBot_phong1SG_008
+    4300018: TallBot_TallBot_phong1SG_009
+    4300020: TallBot_TallBot_phong1SG_010
+    4300022: TallBot_TallBot_phong1SG_011
+    4300024: TallBot_TallBot_phong1SG_012
+    4300026: TallBot_TallBot_phong1SG_013
+    4300028: TallBot_TallBot_phong1SG_014
+    4300030: TallBot_TallBot_phong1SG_015
+    4300032: TallBot_TallBot_phong1SG_016
+    4300034: TallBot_TallBot_phong1SG_017
+    4300036: TallBot_TallBot_phong1SG_018
+    4300038: TallBot_TallBot_phong1SG_019
+    4300040: TallBot_TallBot_phong1SG_020
+    4300042: TallBot_TallBot_phong1SG_021
+    4300044: TallBot_TallBot_phong1SG_022
+    4300046: TallBot_TallBot_phong1SG_023
+    4300048: TallBot_TallBot_phong1SG_024
+    4300050: TallBot_TallBot_phong1SG_025
+    7400000: Hover
+    7400002: Run
+    7400004: Jump
+    7400006: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: TallBot_TallBot_phong1SG
+    13700002: TallBot_TallBot_phong1SG_002
+    13700004: TallBot_TallBot_phong1SG_003
+    13700006: TallBot_TallBot_phong1SG_004
+    13700008: TallBot_TallBot_phong1SG_005
+    13700010: TallBot_TallBot_phong1SG_006
+    13700012: TallBot_TallBot_phong1SG_007
+    13700014: TallBot_TallBot_phong1SG_008
+    13700016: TallBot_TallBot_phong1SG_009
+    13700018: TallBot_TallBot_phong1SG_010
+    13700020: TallBot_TallBot_phong1SG_011
+    13700022: TallBot_TallBot_phong1SG_012
+    13700024: TallBot_TallBot_phong1SG_013
+    13700026: TallBot_TallBot_phong1SG_014
+    13700028: TallBot_TallBot_phong1SG_015
+    13700030: TallBot_TallBot_phong1SG_016
+    13700032: TallBot_TallBot_phong1SG_017
+    13700034: TallBot_TallBot_phong1SG_018
+    13700036: TallBot_TallBot_phong1SG_019
+    13700038: TallBot_TallBot_phong1SG_020
+    13700040: TallBot_TallBot_phong1SG_021
+    13700042: TallBot_TallBot_phong1SG_022
+    13700044: TallBot_TallBot_phong1SG_023
+    13700046: TallBot_TallBot_phong1SG_024
+    13700048: TallBot_TallBot_phong1SG_025
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 38
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: TallBot_TallBot_phong1SG
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_001
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_002
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_003
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_004
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_005
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_006
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_007
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_008
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_009
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_010
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_011
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_012
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_013
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_014
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_015
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_016
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_017
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_018
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_019
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_020
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_021
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_022
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_023
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_024
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_025
+        weight: 1
+      - path: tallBotBones
+        weight: 1
+      - path: tallBotBones/Bone
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L/legMidBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L/legMidBckBone_L/legCalfBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R/legMidBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R/legMidBckBone_R/legCalfBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L/LegMidFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L/LegMidFrntBone_L/LegCalfFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R/LegMidFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R/LegMidFrntBone_R/LegCalfFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBckTarget_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBckTarget_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomBckPoleVectr_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomBckPoleVectr_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomFrntPoleVectr_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomFrntPoleVectr_R
+        weight: 1
+      - path: tallBotBones/Bone/LegFrntTarget_L
+        weight: 1
+      - path: tallBotBones/Bone/LegFrntTarget_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Hover
+      takeName: Take 001
+      firstFrame: 115
+      lastFrame: 129
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: TallBot_TallBot_phong1SG
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_001
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_002
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_003
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_004
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_005
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_006
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_007
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_008
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_009
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_010
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_011
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_012
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_013
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_014
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_015
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_016
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_017
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_018
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_019
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_020
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_021
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_022
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_023
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_024
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_025
+        weight: 1
+      - path: tallBotBones
+        weight: 1
+      - path: tallBotBones/Bone
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L/legMidBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L/legMidBckBone_L/legCalfBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R/legMidBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R/legMidBckBone_R/legCalfBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L/LegMidFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L/LegMidFrntBone_L/LegCalfFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R/LegMidFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R/LegMidFrntBone_R/LegCalfFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBckTarget_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBckTarget_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomBckPoleVectr_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomBckPoleVectr_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomFrntPoleVectr_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomFrntPoleVectr_R
+        weight: 1
+      - path: tallBotBones/Bone/LegFrntTarget_L
+        weight: 1
+      - path: tallBotBones/Bone/LegFrntTarget_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 74
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: TallBot_TallBot_phong1SG
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_001
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_002
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_003
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_004
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_005
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_006
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_007
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_008
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_009
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_010
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_011
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_012
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_013
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_014
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_015
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_016
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_017
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_018
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_019
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_020
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_021
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_022
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_023
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_024
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_025
+        weight: 1
+      - path: tallBotBones
+        weight: 1
+      - path: tallBotBones/Bone
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L/legMidBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L/legMidBckBone_L/legCalfBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R/legMidBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R/legMidBckBone_R/legCalfBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L/LegMidFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L/LegMidFrntBone_L/LegCalfFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R/LegMidFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R/LegMidFrntBone_R/LegCalfFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBckTarget_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBckTarget_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomBckPoleVectr_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomBckPoleVectr_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomFrntPoleVectr_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomFrntPoleVectr_R
+        weight: 1
+      - path: tallBotBones/Bone/LegFrntTarget_L
+        weight: 1
+      - path: tallBotBones/Bone/LegFrntTarget_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: TallBot_TallBot_phong1SG
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_001
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_002
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_003
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_004
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_005
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_006
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_007
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_008
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_009
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_010
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_011
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_012
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_013
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_014
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_015
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_016
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_017
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_018
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_019
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_020
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_021
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_022
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_023
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_024
+        weight: 1
+      - path: TallBot_TallBot_phong1SG_025
+        weight: 1
+      - path: tallBotBones
+        weight: 1
+      - path: tallBotBones/Bone
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L/legMidBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_L/legUpperBckBone_L/legMidBckBone_L/legCalfBckBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R/legMidBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneBck_R/legUpperBckBone_R/legMidBckBone_R/legCalfBckBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L/LegMidFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_L/LegUpperFrntBone_L/LegMidFrntBone_L/LegCalfFrntBone_L
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R/LegMidFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/BodyBone/HipBoneFrnt_R/LegUpperFrntBone_R/LegMidFrntBone_R/LegCalfFrntBone_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBckTarget_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBckTarget_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomBckPoleVectr_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomBckPoleVectr_R
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomFrntPoleVectr_L
+        weight: 1
+      - path: tallBotBones/Bone/LegBottomFrntPoleVectr_R
+        weight: 1
+      - path: tallBotBones/Bone/LegFrntTarget_L
+        weight: 1
+      - path: tallBotBones/Bone/LegFrntTarget_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

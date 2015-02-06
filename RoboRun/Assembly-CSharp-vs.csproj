@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{D66E782C-DE83-B769-F98A-C12A0ED63B86}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_1;UNITY_4_6;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\InfiniteAssets\Scripts\GUIScript.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\GameManagerScript.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\InfiniteBotAnimationScript.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\InfiniteWallRun.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\InitScript.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\Orbs.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\PlaneScript.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\RotationScript.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\TrackCleanupScript.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\TrackScript.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\test.cs" />
+     <Compile Include="Assets\InfiniteAssets\Scripts\test2.cs" />
+     <Compile Include="Assets\Scripts\AIControl.cs" />
+     <Compile Include="Assets\Scripts\BotControlPaintMode.cs" />
+     <Compile Include="Assets\Scripts\BotControllerScript.cs" />
+     <Compile Include="Assets\Scripts\BotFlip.cs" />
+     <Compile Include="Assets\Scripts\CameraBallFollower.cs" />
+     <Compile Include="Assets\Scripts\FuelMeterHandController.cs" />
+     <Compile Include="Assets\Scripts\GUIManager.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\InputManager.cs" />
+     <Compile Include="Assets\Scripts\Multiplayer.cs" />
+     <Compile Include="Assets\Scripts\PaintShopGUIScript.cs" />
+     <Compile Include="Assets\Scripts\PaintShopGameManager.cs" />
+     <Compile Include="Assets\Scripts\PlayerMultiplayerControl.cs" />
+     <Compile Include="Assets\Scripts\SpeedMeterHandController.cs" />
+     <Compile Include="Assets\Scripts\SphereRoll.cs" />
+     <Compile Include="Assets\Scripts\SwipeDirectionIndicatorScript.cs" />
+     <Compile Include="Assets\Scripts\Teleport.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\BotControllerTunnel.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\FPSDisplay.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\Powerups.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\TunnelControl.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\TunnelCreatorScript.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\TunnelGUIScript.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\TunnelGameManager.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\TunnelPieceScript.cs" />
+     <Compile Include="Assets\Scripts\Tunnel\TunnelSectionScript.cs" />
+     <Compile Include="Assets\Scripts\WallRun.cs" />
+     <Compile Include="Assets\Scripts\mouseTracker.cs" />
+     <Compile Include="Assets\Scripts\test\lerpTest.cs" />
+     <Compile Include="Assets\Scripts\test\triggerTest.cs" />
+     <Compile Include="Assets\Scripts\testBot.cs" />
+     <Compile Include="Assets\Scripts\testBot2.cs" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Shaders\CurvedWorld.shader" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+     <None Include="Assets\InfiniteAssets\Scripts\DoubleSidedPlanes.shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>E:/Game/RoboRun/RoboRun/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{9C0CC830-C410-FA91-EC63-54539C126273}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

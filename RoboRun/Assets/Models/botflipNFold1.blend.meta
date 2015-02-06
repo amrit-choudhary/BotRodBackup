@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: d2c7e4ec14f0d8d47b00f98ec11abcf4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_001
+    100004: Bone_L
+    100006: Bone_L_001
+    100008: Bone_L_002
+    100010: Bone_L_003
+    100012: Bone_L_004
+    100014: Bone_L_005
+    100016: Bone_L_006
+    100018: Bone_L_007
+    100020: Bone_R
+    100022: Bone_R_001
+    100024: Bone_R_002
+    100026: Bone_R_003
+    100028: Bone_R_004
+    100030: Bone_R_005
+    100032: Bone_R_006
+    100034: botBckLeg_l
+    100036: botBckLeg_r
+    100038: botBody
+    100040: boteye_l
+    100042: boteye_r
+    100044: //RootNode
+    100046: botFrntLeg_l
+    100048: botFrntLeg_r
+    100050: botHead
+    100052: raceBotArmature
+    400000: Bone
+    400002: Bone_001
+    400004: Bone_L
+    400006: Bone_L_001
+    400008: Bone_L_002
+    400010: Bone_L_003
+    400012: Bone_L_004
+    400014: Bone_L_005
+    400016: Bone_L_006
+    400018: Bone_L_007
+    400020: Bone_R
+    400022: Bone_R_001
+    400024: Bone_R_002
+    400026: Bone_R_003
+    400028: Bone_R_004
+    400030: Bone_R_005
+    400032: Bone_R_006
+    400034: botBckLeg_l
+    400036: botBckLeg_r
+    400038: botBody
+    400040: boteye_l
+    400042: boteye_r
+    400044: //RootNode
+    400046: botFrntLeg_l
+    400048: botFrntLeg_r
+    400050: botHead
+    400052: raceBotArmature
+    4300000: botBody
+    4300002: botFrntLeg_l
+    4300004: botBckLeg_l
+    4300006: boteye_r
+    4300008: boteye_l
+    4300010: botBckLeg_r
+    4300012: botFrntLeg_r
+    4300014: botHead
+    7400000: Default Take
+    7400002: raceBotArmatureAction_002
+    7400004: Flip
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: botBckLeg_l
+    13700002: botBckLeg_r
+    13700004: botBody
+    13700006: boteye_l
+    13700008: boteye_r
+    13700010: botFrntLeg_l
+    13700012: botFrntLeg_r
+    13700014: botHead
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 9
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: botBckLeg_l
+        weight: 1
+      - path: botBckLeg_r
+        weight: 1
+      - path: botBody
+        weight: 1
+      - path: boteye_l
+        weight: 1
+      - path: boteye_r
+        weight: 1
+      - path: botFrntLeg_l
+        weight: 1
+      - path: botFrntLeg_r
+        weight: 1
+      - path: botHead
+        weight: 1
+      - path: raceBotArmature
+        weight: 1
+      - path: raceBotArmature/Bone_L_007
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_001
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_L
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_L/Bone_L_001
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_L/Bone_L_001/Bone_L_003
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_L/Bone_L_002
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_L/Bone_L_002/Bone_L_004
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_R
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_R/Bone_R_001
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_R/Bone_R_001/Bone_R_003
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_R/Bone_R_002
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_R/Bone_R_002/Bone_R_004
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone_L_005
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone_L_006
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone_R_005
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone_R_006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Flip
+      takeName: Default Take
+      firstFrame: 55
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: botBckLeg_l
+        weight: 1
+      - path: botBckLeg_r
+        weight: 1
+      - path: botBody
+        weight: 1
+      - path: boteye_l
+        weight: 1
+      - path: boteye_r
+        weight: 1
+      - path: botFrntLeg_l
+        weight: 1
+      - path: botFrntLeg_r
+        weight: 1
+      - path: botHead
+        weight: 1
+      - path: raceBotArmature
+        weight: 1
+      - path: raceBotArmature/Bone_L_007
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_001
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_L
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_L/Bone_L_001
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_L/Bone_L_001/Bone_L_003
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_L/Bone_L_002
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_L/Bone_L_002/Bone_L_004
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_R
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_R/Bone_R_001
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_R/Bone_R_001/Bone_R_003
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_R/Bone_R_002
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone/Bone_R/Bone_R_002/Bone_R_004
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone_L_005
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone_L_006
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone_R_005
+        weight: 1
+      - path: raceBotArmature/Bone_L_007/Bone_R_006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

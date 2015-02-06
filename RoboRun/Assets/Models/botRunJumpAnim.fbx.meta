@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 5fcd2cbb209887f4e84f3946378f0563
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: botBckLeg.l
+    100002: botBckLeg.r
+    100004: botBody
+    100006: boteye.l
+    100008: boteye.r
+    100010: botFrntLeg.l
+    100012: botFrntLeg.r
+    100014: botHead
+    100016: //RootNode
+    100018: raceBotArmature
+    100020: raceBotArmature|Bone
+    100022: raceBotArmature|Bone.001
+    100024: raceBotArmature|Bone_L
+    100026: raceBotArmature|Bone_L.001
+    100028: raceBotArmature|Bone_L.002
+    100030: raceBotArmature|Bone_L.003
+    100032: raceBotArmature|Bone_L.004
+    100034: raceBotArmature|Bone_L.005
+    100036: raceBotArmature|Bone_L.006
+    100038: raceBotArmature|Bone_R
+    100040: raceBotArmature|Bone_R.001
+    100042: raceBotArmature|Bone_R.002
+    100044: raceBotArmature|Bone_R.003
+    100046: raceBotArmature|Bone_R.004
+    100048: raceBotArmature|Bone_R.005
+    100050: raceBotArmature|Bone_R.006
+    400000: botBckLeg.l
+    400002: botBckLeg.r
+    400004: botBody
+    400006: boteye.l
+    400008: boteye.r
+    400010: botFrntLeg.l
+    400012: botFrntLeg.r
+    400014: botHead
+    400016: //RootNode
+    400018: raceBotArmature
+    400020: raceBotArmature|Bone
+    400022: raceBotArmature|Bone.001
+    400024: raceBotArmature|Bone_L
+    400026: raceBotArmature|Bone_L.001
+    400028: raceBotArmature|Bone_L.002
+    400030: raceBotArmature|Bone_L.003
+    400032: raceBotArmature|Bone_L.004
+    400034: raceBotArmature|Bone_L.005
+    400036: raceBotArmature|Bone_L.006
+    400038: raceBotArmature|Bone_R
+    400040: raceBotArmature|Bone_R.001
+    400042: raceBotArmature|Bone_R.002
+    400044: raceBotArmature|Bone_R.003
+    400046: raceBotArmature|Bone_R.004
+    400048: raceBotArmature|Bone_R.005
+    400050: raceBotArmature|Bone_R.006
+    4300000: botBody
+    4300002: botFrntLeg.l
+    4300004: botBckLeg.l
+    4300006: boteye.r
+    4300008: boteye.l
+    4300010: botBckLeg.r
+    4300012: botFrntLeg.r
+    4300014: botHead
+    7400000: Run
+    7400002: raceBotArmature|ObAction
+    7400004: raceBotArmature|ObAction.001
+    7400006: botBody|ObAction
+    7400008: botBody|ObAction.001
+    7400010: botFrntLeg.l|ObAction
+    7400012: botFrntLeg.l|ObAction.001
+    7400014: botBckLeg.l|ObAction
+    7400016: botBckLeg.l|ObAction.001
+    7400018: boteye.r|ObAction
+    7400020: boteye.r|ObAction.001
+    7400022: boteye.l|ObAction
+    7400024: boteye.l|ObAction.001
+    7400026: botBckLeg.r|ObAction
+    7400028: botBckLeg.r|ObAction.001
+    7400030: botFrntLeg.r|ObAction
+    7400032: botFrntLeg.r|ObAction.001
+    7400034: botHead|ObAction
+    7400036: Idle
+    7400038: Jump
+    7400040: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: botBckLeg.l
+    13700002: botBckLeg.r
+    13700004: botBody
+    13700006: boteye.l
+    13700008: boteye.r
+    13700010: botFrntLeg.l
+    13700012: botFrntLeg.r
+    13700014: botHead
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: raceBotArmature|ArmatureAction.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: botBckLeg.l
+        weight: 1
+      - path: botBckLeg.r
+        weight: 1
+      - path: botBody
+        weight: 1
+      - path: boteye.l
+        weight: 1
+      - path: boteye.r
+        weight: 1
+      - path: botFrntLeg.l
+        weight: 1
+      - path: botFrntLeg.r
+        weight: 1
+      - path: botHead
+        weight: 1
+      - path: raceBotArmature
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone.001
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.001
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.001/raceBotArmature|Bone_L.003
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.002
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.002/raceBotArmature|Bone_L.004
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.001
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.001/raceBotArmature|Bone_R.003
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.002
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.002/raceBotArmature|Bone_R.004
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_L.005
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_L.006
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_R.005
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_R.006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: raceBotArmature|ArmatureAction.001
+      firstFrame: 10
+      lastFrame: 25
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: botBckLeg.l
+        weight: 1
+      - path: botBckLeg.r
+        weight: 1
+      - path: botBody
+        weight: 1
+      - path: boteye.l
+        weight: 1
+      - path: boteye.r
+        weight: 1
+      - path: botFrntLeg.l
+        weight: 1
+      - path: botFrntLeg.r
+        weight: 1
+      - path: botHead
+        weight: 1
+      - path: raceBotArmature
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone.001
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.001
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.001/raceBotArmature|Bone_L.003
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.002
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.002/raceBotArmature|Bone_L.004
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.001
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.001/raceBotArmature|Bone_R.003
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.002
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.002/raceBotArmature|Bone_R.004
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_L.005
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_L.006
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_R.005
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_R.006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: raceBotArmature|ArmatureAction.001
+      firstFrame: 50
+      lastFrame: 66
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: botBckLeg.l
+        weight: 1
+      - path: botBckLeg.r
+        weight: 1
+      - path: botBody
+        weight: 1
+      - path: boteye.l
+        weight: 1
+      - path: boteye.r
+        weight: 1
+      - path: botFrntLeg.l
+        weight: 1
+      - path: botFrntLeg.r
+        weight: 1
+      - path: botHead
+        weight: 1
+      - path: raceBotArmature
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone.001
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.001
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.001/raceBotArmature|Bone_L.003
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.002
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_L/raceBotArmature|Bone_L.002/raceBotArmature|Bone_L.004
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.001
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.001/raceBotArmature|Bone_R.003
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.002
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone/raceBotArmature|Bone_R/raceBotArmature|Bone_R.002/raceBotArmature|Bone_R.004
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_L.005
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_L.006
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_R.005
+        weight: 1
+      - path: raceBotArmature/raceBotArmature|Bone_R.006
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
