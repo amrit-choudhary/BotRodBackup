@@ -1,0 +1,9 @@
+E:\Game\RoboRun\RoboRun\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Game\RoboRun\RoboRun\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Game\RoboRun\RoboRun\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Game\RoboRun\RoboRun\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Game\RoboRun\RoboRun\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Game\RoboRun\RoboRun\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Game\RoboRun\RoboRun\obj\Debug\UnityVS.RoboRun.CSharp.Plugins.csprojResolveAssemblyReference.cache
+E:\Game\RoboRun\RoboRun\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Game\RoboRun\RoboRun\obj\Debug\Assembly-CSharp-firstpass.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.RoboRun.CSharp", "UnityVS.RoboRun.CSharp.csproj", "{196BE4F6-B543-A4CE-3C80-6235CCD7BEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.RoboRun.CSharp.Plugins", "UnityVS.RoboRun.CSharp.Plugins.csproj", "{5378622A-181B-0502-DED2-74E08A1ECF46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196BE4F6-B543-A4CE-3C80-6235CCD7BEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196BE4F6-B543-A4CE-3C80-6235CCD7BEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196BE4F6-B543-A4CE-3C80-6235CCD7BEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196BE4F6-B543-A4CE-3C80-6235CCD7BEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5378622A-181B-0502-DED2-74E08A1ECF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5378622A-181B-0502-DED2-74E08A1ECF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5378622A-181B-0502-DED2-74E08A1ECF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5378622A-181B-0502-DED2-74E08A1ECF46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
